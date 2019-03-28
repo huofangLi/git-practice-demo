@@ -1,0 +1,2 @@
+webpackJsonp([8],{Yf9H:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("h2",[this._v("百度")])])}]};var i=n("VU/8")({name:"BaiDu",data:function(){return{}}},r,!1,function(e){n("k2Fc")},null,null);t.default=i.exports},k2Fc:function(e,t){}});
+//# sourceMappingURL=8.475dda70a6425e221ba9.js.map
